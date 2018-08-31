@@ -52,4 +52,23 @@ In reality, I had started three days ago, but it was until today that I decided 
     + When running the test again, we no longer get a 404 error, but instead a TypeError, complaining that ```home_page``` is not callable. And now is the time to write an actual function instead of having ```home_page = None```. 
     > Every single code is driven by the tests!
 
+4. __A new unit test__
+    >
+        1. First we create an HttpRequest object, which is what Django will see when a user's browser asks for a page
+        2. We pass it to our ```home_page``` view, which gives us a response. You won't be surprised to hear that this object is an instance of a class called HttpResponse.
+        3. Then, we extract the .content of the response. These are the raw bytes, the ones and zeros that would be sent down the wire to the user's browser. We call .decode() to convert them into the string of HTML that's being sent to the user.
+        4. We want it to start with an <html> tag which gets closed at the end.
+        5. And we want a <title> tag somewhere in the middle, with the words "To-Do lists" in it —because that's what we specified in our functional test.
+    
+#### The Unit-Test/Code cycle
+
+> 
+    We can start to settle into the TDD unit-test/code cycle now:
+
+    1. In the terminal, run the unit tests and see how they fail.
+    2. In the editor, make a minimal code change to address the current test failure.
+    
+    And repeat!
+
+
     
