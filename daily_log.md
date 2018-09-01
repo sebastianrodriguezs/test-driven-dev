@@ -91,3 +91,7 @@ This day, and a new month already, is the fourth since I've started the #100days
 
 #### *Notes*
 
+>
+    What we want to do now is make our view function return exactly the same HTML, but just using a different process. That’s a refactor—​when we try to improve the code without changing its functionality.
+
+The first refactor's goal was to stop testing constants (like checking raw strings with html code in them) and test that it is rendering the right template instead.
