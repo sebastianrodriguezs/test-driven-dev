@@ -78,3 +78,16 @@ In reality, I had started three days ago, but it was until today that I decided 
 #### August 31st, 2018
 
 Finished the 3rd chapter, with this [nifty little snippet of that chapter.](http://www.obeythetestinggoat.com/book/chapter_unit_test_first_view.html#_unit_testing_a_view)
+
+
+***
+
+#### September 1st, 2018
+
+This day, and a new month already, is the fourth since I've started the #100daysOfCode challenge. Today I start with the fourth chapter (what a nice coincidence with the day) __What Are We Doing with All These Tests? (And, Refactoring)__ of Percival's book. Let's commence with a great Percival quote:
+
+> 
+    Instead of trying to figure out some hand-wavy subjective rules for when you should write tests, and when you can get away with not bothering, I suggest following the discipline for now—​as with any discipline, you have to take the time to learn the rules before you can break them.
+
+#### *Notes*
+
