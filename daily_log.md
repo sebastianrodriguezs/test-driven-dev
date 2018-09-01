@@ -70,5 +70,11 @@ In reality, I had started three days ago, but it was until today that I decided 
     
     And repeat!
 
-
+    The more nervous we are about getting our code right, the smaller and more minimal we make each code change—​the idea is to be absolutely sure that each bit of code is justified by a test.
     
+
+***
+
+#### August 31st, 2018
+
+Finished the 3rd chapter, with this [nifty little snippet of that chapter.](http://www.obeythetestinggoat.com/book/chapter_unit_test_first_view.html#_unit_testing_a_view)
