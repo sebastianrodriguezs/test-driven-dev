@@ -95,3 +95,27 @@ This day, and a new month already, is the fourth since I've started the #100days
     What we want to do now is make our view function return exactly the same HTML, but just using a different process. That’s a refactor—​when we try to improve the code without changing its functionality.
 
 The first refactor's goal was to stop testing constants (like checking raw strings with html code in them) and test that it is rendering the right template instead.
+
+## Miscellaneous stuff
+
+### What is an API?
+
+>
+    API is the acronym for Application Programming Interface, which is a software intermediary that allows two applications to talk to each other. Each time you use an app like Facebook, send an instant message, or check the weather on your phone, you’re using an API.
+Taken from [mulesoft.](https://www.mulesoft.com/resources/api/what-is-an-api)
+
+***
+
+### What is REST?
+
+REST is a set of conventions used for writing APIs. There are different methods used in the REST convention, and here are the most relevant:
+
++ __GET__ : it is used for retrieving information about an object or a record that already exists. It does not modify anything.
+
++ __POST__ : it is used, on the contrary, when you want to create something. Nowadays, the most common files posted are JSON files, and API states how to write them.
+
+***
+
+#### Resources for further reading:
+
++ [Introduction to the DOM](https://www.digitalocean.com/community/tutorials/introduction-to-the-dom)
