@@ -119,3 +119,16 @@ REST is a set of conventions used for writing APIs. There are different methods 
 #### Resources for further reading:
 
 + [Introduction to the DOM](https://www.digitalocean.com/community/tutorials/introduction-to-the-dom)
+
+
+***
+
+#### September 2nd, 3rd, 2018
+
+Messed up and couldn't go at it these days. Will try to keep up.
+
+
+***
+
+#### September 4th, 2018
+
