@@ -130,5 +130,17 @@ Messed up and couldn't go at it these days. Will try to keep up.
 
 ***
 
-#### September 4th, 2018
+#### September 4th, 5th, 6th 2018
+
+Well, this is embarrasing. I didn't do anything in the last 5 days :( 
+
+
+***
+
+### September 7th 2018
+
+Starting the 5th chapter: __Saving User Input: Testing the Database__
+
+
+
 
